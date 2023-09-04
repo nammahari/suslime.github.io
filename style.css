@@ -1,0 +1,161 @@
+/* style.css */
+
+/* Set background color */
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700;800&display=swap');
+body {
+    background-color: #18181B;
+    align-items: center;
+    align-content: center;
+
+  }
+  
+  /* Set text color */
+  body, p{
+    color: #9CA3AF;
+    font-family: "Source Code Pro";
+  }
+  body,h1,h2{
+    color: #FDFDFD;
+  }
+br{
+    display: block;
+    size: 0.5rem;
+    content: "";
+}
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 50px;
+}
+
+ul{
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  background-color: #262629;
+  list-style-type: none;
+  padding: 0.6rem;
+  margin: 1rem;
+  overflow: hidden;
+  border-radius: 50px;
+}
+ul a{
+  color: #FDFDFD;
+  text-decoration: none;
+  padding: 1rem;
+  font-family: "Source Code Pro";
+}
+ul a:hover{
+  color: #9CA3AF;
+}
+li{
+  float: left;
+}
+
+.navbar{
+  align-self: center;
+}
+.logo{
+  align-self: flex-start;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  flex-direction: column ;
+  align-items: center;
+  margin: 1rem;
+}
+.content{
+  padding: 0rem 10%;
+}
+.content h2{
+  font-size: 1.3rem;
+  color: #9CA3AF;
+}
+.content h1{
+line-height: 0;
+color: #E5E7EB;
+font-size: 3.4375rem;
+font-family: Source Code Pro;
+font-weight: 700; 
+}
+input{
+border-radius: 3.125rem;
+background: #262629;
+width: 27rem;
+height: 4.3125rem;
+flex-shrink: 0;
+display: flex;
+justify-content: center;
+text-align: left;
+}
+.AMA {
+  display: grid;
+  place-items: center;
+  text-align: center;
+  height: 75vh;/* Adjust this value as needed */
+}
+input[type="text"]{
+  color: #959598;
+  font-family: Source Code Pro;
+  font-size: 1.22175rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  
+}
+input[id="msg"]{
+  color: #959598;
+  font-family: Source Code Pro;
+  font-size: 1.22175rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 46.625rem;
+  height: 15.625rem;
+}
+input[type="mail"]{
+  color: #959598;
+  font-family: Source Code Pro;
+  font-size: 1.22175rem;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+@media (max-width: 768px) {
+  .content h1{
+    font-size: 2rem;
+  }
+  .content h2{
+    font-size: .8rem;
+  }
+  .content{
+    padding: 0rem 5%;
+  }
+  .logo{
+    align-self: center;
+  }
+  header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50px;
+  }
+  footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column ;
+    align-items: center;
+    margin: 1rem;
+  }
+}
+/* Path: hariprasanth.me/style.css */
+/* style.css */
