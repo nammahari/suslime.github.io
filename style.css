@@ -53,6 +53,9 @@ ul a{
 ul a:hover{
   color: #9CA3AF;
 }
+.social {
+  cursor: url(/new-tab.png) 10 10,pointer;
+}
 li{
   float: left;
 }
