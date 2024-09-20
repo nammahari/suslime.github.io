@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Welcome to nammahari&#39;s blog page :)</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Welcome to nammahari&#39;s blog page :)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2024, Hari Pasanth S.</copyright>
+    <lastBuildDate>Fri, 20 Sep 2024 20:09:31 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Linux_Installation Party Chennai</title>
+      <link>http://localhost:1313/blog/the-linux_installation-party-chennai/</link>
+      <pubDate>Fri, 20 Sep 2024 20:09:31 +0530</pubDate>
+      <guid>http://localhost:1313/blog/the-linux_installation-party-chennai/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://cdn-images-1.medium.com/max/2560/1*3zz0_VDo8Wjj5Tb0dXW5yQ.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-linux-installation-party&#34;&gt;The Linux Installation Party&lt;/h3&gt;&#xA;&lt;h4 id=&#34;foss-united-chennai&#34;&gt;FOSS United Chennai.&lt;/h4&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;29th July 2023 — Pickyourtrail,Chennai&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;👋 வணக்கம் சென்னை,I’ll take you on a wild voyage through the &lt;a href=&#34;http://fossunited.org/chennai&#34;&gt;FOSS United Chennai’s&lt;/a&gt; amazing Linux Installation Party. Be prepared for a tale of stubborn volunteers, unexpected location changes, and GitHub heroes! 🚀👩‍💻&lt;/p&gt;&#xA;&lt;p&gt;It all started with great hopes and 30 excited registrants keen to begin their Linux adventure. We had no idea that a last-minute venue change would put our planning skills to the test. But, as the saying goes, where there’s a will, there’s a way! 💪🗺️ We managed to roll with the punches and keep the event going with determination in our hearts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My New Post</title>
+      <link>http://localhost:1313/blog/my-new-post/</link>
+      <pubDate>Fri, 20 Sep 2024 17:25:20 +0530</pubDate>
+      <guid>http://localhost:1313/blog/my-new-post/</guid>
+      <description>&lt;p&gt;This is a page about »My New Post«.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+baseURL = 'https://nammahari.tech'
+languageCode = 'en-us'
+title = "Welcome to nammahari's blog page :)"
+theme = 'hugo-theme-nostyleplease'
+author = "nammahari"
+copyright = "Copyright © 2024, Hari Pasanth S."
+

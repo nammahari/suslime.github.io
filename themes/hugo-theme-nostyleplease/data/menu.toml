@@ -1,0 +1,28 @@
+[[entries]]
+title = "info"
+
+  [[entries.entries]]
+  title = "meet nammahari, an entrepreneur from India."
+  [[entries.entries]]
+  title = "A huge fan of FOSS, Self Hosting, Digital Minimalisim, art and etc."
+  [[entries.entries]]
+  title = "mail :)"
+  url = "mailto:hari@mahathaan.com"
+  [[entries.entries]]
+  title = "click '..' to go back"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
+
+
+
